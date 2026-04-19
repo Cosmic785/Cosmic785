@@ -1,16 +1,21 @@
-## Hi there 👋
+## Hi there 👋 I'm Cosmic785
 
-<!--
-**Cosmic785/Cosmic785** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build things at the intersection of AI and space.
 
-Here are some ideas to get you started:
+### 🚀 Current Mission
+**Cosmic AI** - [1 sentence on what it does. Example: An open-source agent that helps you explore and understand astronomy data]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I’m focused on making AI tools that feel like a co-pilot for curiosity.
+
+### 🛠️ Building With
+HTML · Python · PyTorch · LangChain · TypeScript · Next.js
+
+### 🌱 Right Now
+- Shipping early versions of Cosmic AI
+- Learning more about vector databases and RAG
+- Open to collaborating on AI + science projects
+
+### 📫 Connect
+[Join my Discord](https://discord.gg/3Thmry5TJ8)
+
+⭐ My pinned repos are where Cosmic AI lives
